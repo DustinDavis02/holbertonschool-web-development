@@ -6,4 +6,4 @@ This project is an introduction to HTML and CSS. In this project, we will be bui
 
 The webpage will be based on the following wireframe:
 
-![Wireframe Image](https://imgur.com/a/y2lIhPE)
+![Wireframe Image](Wireframe.png)
